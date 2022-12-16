@@ -1,0 +1,16 @@
+$font-size: 20px;
+$standard-color: white;
+
+.hello-world-button{
+    font-size: $font-size;
+    padding: 7px 15px;
+    background: green;
+    color: $standard-color;
+    outline:none;
+}
+
+.hello-world-text{
+   
+    color: black;
+    font-weight: bold;
+}
